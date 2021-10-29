@@ -6,7 +6,7 @@ i am using:
 - css
 - javascript
 - php
-- node js
+- node.js
 - react.js
 - nuxt.js
 - c#
